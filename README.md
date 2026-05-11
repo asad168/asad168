@@ -4,7 +4,7 @@
 <!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Ahmed Ayad</h1>
-<h3 align="center">AI & Computer Science Student | Deep Learning & RAG Systems Developer</h3>
+<h3 align="center">AI & Computer Science Student | Machine Learning & RAG Systems Developer</h3>
 
 # 🚀 About Me
 

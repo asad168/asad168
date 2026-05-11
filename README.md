@@ -63,4 +63,4 @@ AI-powered medical reasoning system that predicts possible diseases from symptom
 
 🔗 Project Link:  
 ```bash
-https://github.com/YOUR_USERNAME/medical-diagnosis-ai
+https://github.com/asad168/Medical-Support-Assistant

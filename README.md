@@ -7,11 +7,11 @@
 <h3 align="center">AI & Computer Science Student | Machine Learning & RAG Systems Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/asad168">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/asad168">
     <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
   </a>
 </p>
